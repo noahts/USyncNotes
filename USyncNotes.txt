@@ -1,0 +1,19 @@
+Notes about USync
+
+Links received from Bachir:
+
+http://www.adamretter.org.uk/blog/entries/LDAPTest.java
+http://myjeeva.com/querying-active-directory-using-java.html
+http://www.programming-free.com/2012/09/query-active-directory-from-java-using.html
+ 
+
+They don't really work, though. The closest I got was the last one, but I ran into problems because I needed a MDM api, and I was unable to find it.
+
+Then I started looking myself, and according to StackExchange, the most interesting one seems to be this one:
+
+https://www.unboundid.com/products/ldapsdk/
+
+There is an example of it here
+
+http://stackoverflow.com/questions/389746/ldap-java-library
+

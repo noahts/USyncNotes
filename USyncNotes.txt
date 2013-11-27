@@ -17,3 +17,4 @@ There is an example of it here
 
 http://stackoverflow.com/questions/389746/ldap-java-library
 
+I will need to try that out when I get to the office tomorrow.
